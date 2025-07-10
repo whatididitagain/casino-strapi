@@ -1,5 +1,5 @@
 {
-  "name": "strapi-casino-cms",
+  "name": "strapi-casino-freetips",
   "private": true,
   "version": "1.0.0",
   "scripts": {
@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@strapi/strapi": "4.25.6",
-    "sqlite3": "^5.1.2"
+    "sqlite3": "^5.1.6"
   }
 }
