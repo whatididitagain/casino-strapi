@@ -8,6 +8,7 @@
     "build": "strapi build"
   },
   "dependencies": {
+    "@strapi/plugin-users-permissions": "^4.25.6",
     "@strapi/strapi": "4.25.6",
     "sqlite3": "^5.1.6"
   }
