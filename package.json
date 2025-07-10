@@ -1,0 +1,14 @@
+{
+  "name": "strapi-casino-cms",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build"
+  },
+  "dependencies": {
+    "@strapi/strapi": "4.25.6",
+    "sqlite3": "^5.1.2"
+  }
+}
